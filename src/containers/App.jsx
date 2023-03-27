@@ -6,7 +6,7 @@ function App() {
     <BrowserRouter>
     <Routes>
 
-      <Route path="/" element={ <Hoja/>}/>
+      <Route path="CV-RE" element={ <Hoja/>}/>
     
     </Routes>
   </BrowserRouter>
